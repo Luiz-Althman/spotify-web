@@ -23,6 +23,7 @@ export default async function RootLayout({
     params: Promise<{ locale: string }>;
 }>) {
     const { locale } = await params;
+
     // biome-ignore lint/suspicious/noExplicitAny: <explanation>
     if (!routing.locales.includes(locale as any)) {
         notFound();
