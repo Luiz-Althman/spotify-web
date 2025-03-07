@@ -1,0 +1,15 @@
+{
+    "Home": {
+        "h1": "Boa tarde",
+        "h2": "Episódios para você"
+    },
+    "Sidebar": {
+        "home": "Início",
+        "search": "Buscar",
+        "yourLibrary": "Sua Biblioteca",
+        "actionCreate": "Criar Playlist",
+        "actionLiked": "Músicas Curtidas",
+        "actionEpisodes": "Seus Episódios",
+        "installApp": "Instalar App"
+    }
+}

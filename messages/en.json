@@ -1,0 +1,15 @@
+{
+    "Home": {
+        "h1": "Good afternoon",
+        "h2": "Episodes for you"
+    },
+    "Sidebar": {
+        "home": "Home",
+        "search": "Search",
+        "yourLibrary": "Your Library",
+        "actionCreate": "Create Playlist",
+        "actionLiked": "Liked Songs",
+        "actionEpisodes": "Your Episodes",
+        "installApp": "Install App"
+    }
+}
